@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20190"
         version   = "3.3.1">
-    <name>Moodle Mobile</name>
+    <name>Freshwater Moodle</name>
 
     <description>
-        Moodle Mobile official app
+        Freshwater Christian College Moodle Mobile App
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        Moodle Mobile team (+ a little love from R. Schwarz)
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
